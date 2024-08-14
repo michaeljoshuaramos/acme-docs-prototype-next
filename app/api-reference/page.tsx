@@ -7,7 +7,7 @@ const Page: React.FC = () => {
       <header>
         <NavigationBar />
       </header>
-      <div className="flex">Hello World!</div>
+      <h1 className="pt-[80px]">API Reference</h1>
     </main>
   );
 };
